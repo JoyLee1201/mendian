@@ -1,0 +1,152 @@
+﻿body {
+  margin:0px;
+  background-image:none;
+  position:static;
+  left:auto;
+  width:2127px;
+  margin-left:0;
+  margin-right:0;
+  text-align:left;
+}
+#base {
+  position:absolute;
+  z-index:0;
+}
+#u314_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:375px;
+  height:812px;
+}
+#u314 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:375px;
+  height:812px;
+}
+#u315 {
+  position:absolute;
+  left:2px;
+  top:398px;
+  width:371px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u316_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:375px;
+  height:812px;
+}
+#u316 {
+  position:absolute;
+  left:428px;
+  top:0px;
+  width:375px;
+  height:812px;
+}
+#u317 {
+  position:absolute;
+  left:2px;
+  top:398px;
+  width:371px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u318_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:375px;
+  height:812px;
+}
+#u318 {
+  position:absolute;
+  left:1297px;
+  top:0px;
+  width:375px;
+  height:812px;
+}
+#u319 {
+  position:absolute;
+  left:2px;
+  top:398px;
+  width:371px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u320_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:375px;
+  height:812px;
+}
+#u320 {
+  position:absolute;
+  left:857px;
+  top:0px;
+  width:375px;
+  height:812px;
+}
+#u321 {
+  position:absolute;
+  left:2px;
+  top:398px;
+  width:371px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u322_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:375px;
+  height:812px;
+}
+#u322 {
+  position:absolute;
+  left:1752px;
+  top:0px;
+  width:375px;
+  height:812px;
+}
+#u323 {
+  position:absolute;
+  left:2px;
+  top:398px;
+  width:371px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u324_div {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:260px;
+  height:131px;
+  background:inherit;
+  background-color:rgba(208, 225, 125, 1);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:5px 5px 5px rgba(0, 0, 0, 0.2);
+  -webkit-box-shadow:5px 5px 5px rgba(0, 0, 0, 0.2);
+  box-shadow:5px 5px 5px rgba(0, 0, 0, 0.2);
+}
+#u324 {
+  position:absolute;
+  left:196px;
+  top:899px;
+  width:260px;
+  height:131px;
+}
+#u325 {
+  position:absolute;
+  left:10px;
+  top:10px;
+  width:240px;
+  word-wrap:break-word;
+}

@@ -1,0 +1,157 @@
+﻿.ax_default {
+  font-family:'ArialMT', 'Arial';
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  color:#333333;
+  text-align:center;
+  line-height:normal;
+}
+._一级标题 {
+  font-family:'ArialMT', 'Arial';
+  font-weight:bold;
+  font-style:normal;
+  font-size:32px;
+  text-align:left;
+}
+._二级标题 {
+  font-family:'ArialMT', 'Arial';
+  font-weight:bold;
+  font-style:normal;
+  font-size:24px;
+  text-align:left;
+}
+._三级标题 {
+  font-family:'ArialMT', 'Arial';
+  font-weight:bold;
+  font-style:normal;
+  font-size:18px;
+  text-align:left;
+}
+._四级标题 {
+  font-family:'ArialMT', 'Arial';
+  font-weight:bold;
+  font-style:normal;
+  font-size:14px;
+  text-align:left;
+}
+._五级标题 {
+  font-family:'ArialMT', 'Arial';
+  font-weight:bold;
+  font-style:normal;
+  text-align:left;
+}
+._六级标题 {
+  font-family:'ArialMT', 'Arial';
+  font-weight:bold;
+  font-style:normal;
+  font-size:10px;
+  text-align:left;
+}
+._文本段落 {
+  text-align:left;
+}
+._流程形状 {
+}
+._图片 {
+  color:#000000;
+}
+._形状 {
+  font-family:'ArialMT', 'Arial';
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  color:#333333;
+  text-align:center;
+  line-height:normal;
+}
+.icon {
+}
+._文本段落1 {
+  text-align:left;
+}
+.label {
+  font-size:14px;
+  text-align:left;
+}
+.line {
+}
+.html_button {
+  text-align:center;
+}
+._连接线 {
+  font-family:'PingFangSC-Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  color:#FF0000;
+  text-align:center;
+  line-height:normal;
+}
+.sticky_1 {
+  text-align:left;
+}
+.ellipse {
+}
+.link_button {
+  color:#169BD5;
+}
+.box_1 {
+}
+.marker {
+  color:#FFFFFF;
+}
+.paragraph {
+  text-align:left;
+}
+.iconfont {
+  font-family:'iconfont', 'iconfont Medium';
+  font-weight:500;
+  font-style:normal;
+  font-size:18px;
+  color:#666666;
+}
+.shape {
+}
+.label1 {
+  font-size:14px;
+  text-align:left;
+}
+.image {
+  color:#000000;
+}
+.box_2 {
+}
+.box_11 {
+}
+.sticky_3 {
+  text-align:left;
+}
+.image1 {
+}
+.button {
+}
+.text_field {
+  color:#000000;
+  text-align:left;
+}
+._复选框 {
+  text-align:left;
+}
+._水平线 {
+}
+.box_21 {
+}
+._表格 {
+}
+.table_cell {
+}
+.droplist {
+  color:#000000;
+  text-align:left;
+}
+._提交按钮 {
+  color:#000000;
+}
+.flow_shape {
+}
