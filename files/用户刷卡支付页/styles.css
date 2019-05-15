@@ -3,7 +3,7 @@
   background-image:none;
   position:static;
   left:auto;
-  width:565px;
+  width:562px;
   margin-left:0;
   margin-right:0;
   text-align:left;
@@ -22,7 +22,7 @@
 #u422 {
   position:absolute;
   left:0px;
-  top:105px;
+  top:0px;
   width:375px;
   height:812px;
 }
@@ -53,8 +53,8 @@
 }
 #u424 {
   position:absolute;
-  left:397px;
-  top:244px;
+  left:394px;
+  top:217px;
   width:168px;
   height:162px;
   font-family:'PingFangSC-Regular', 'PingFang SC';

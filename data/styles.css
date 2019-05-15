@@ -135,6 +135,10 @@
   color:#000000;
   text-align:left;
 }
+.text_area {
+  color:#000000;
+  text-align:left;
+}
 ._复选框 {
   text-align:left;
 }
@@ -154,4 +158,21 @@
   color:#000000;
 }
 .flow_shape {
+}
+.shape1 {
+}
+.icon1 {
+}
+.ellipse1 {
+}
+.line1 {
+}
+.heading_1 {
+  font-family:'Arial-BoldMT', 'Arial Bold', 'Arial';
+  font-weight:700;
+  font-style:normal;
+  font-size:32px;
+  text-align:left;
+}
+.icon2 {
 }
